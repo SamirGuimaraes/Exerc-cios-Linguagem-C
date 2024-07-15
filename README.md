@@ -1,1 +1,1 @@
-# Exerc-cios-Linguagem-C
+# Exercícios-Linguagem-C
